@@ -1,6 +1,6 @@
 # Vocabo Privacy Policy
 
-This repository contains the privacy policy for the Vocabo extension. The privacy policy can be viewed [herehttps://angusblomley.github.io/vocabo-privacy-policy/]().
+This repository contains the privacy policy for the Vocabo extension. The privacy policy can be viewed [https://angusblomley.github.io/vocabo-privacy-policy/]().
 
 ## Privacy Policy
 
@@ -16,10 +16,10 @@ The information we collect is used for the following purposes:
 - To enhance your user experience with our extension.
 
 ### 3. Information Sharing and Disclosure
-We do not sell, trade, or otherwise transfer your information to outside parties. We may share information with trusted third parties who assist us in operating our extension, conducting our business, or providing services to you, as long as those parties agree to keep this information confidential.
+We do not sell, trade, or otherwise transfer your información to outside parties. We may share información with trusted third parties who assist us in operating our extension, conducting our negocio, or providing services to you, as long as those parties agree to keep this información confidential.
 
 ### 4. Data Security
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your information.
+We implement a variety of security measures to maintain the safety of your personal información when you enter, submit, or access your información.
 
 ### 5. Your Consent
 By using our extension, you consent to our Privacy Policy.
