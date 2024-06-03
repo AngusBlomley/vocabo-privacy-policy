@@ -1,6 +1,6 @@
 # Vocabo Privacy Policy
 
-This repository contains the privacy policy for the Vocabo extension. The privacy policy can be viewed [here]([https://yourusername.github.io/vocabo-privacy-policy/privacy-policy.html](https://angusblomley.github.io/vocabo-privacy-policy/)).
+This repository contains the privacy policy for the Vocabo extension. The privacy policy can be viewed [herehttps://angusblomley.github.io/vocabo-privacy-policy/]().
 
 ## Privacy Policy
 
